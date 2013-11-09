@@ -45,7 +45,7 @@ public class getInfo {
 		if (subject == "born"){
 			bornDate(info);
 		}
-		else if(subject == "happened"){
+		else if(subject == "happened" || subject == "happen"){
 			eventDate(info);
 		}
 		else{
